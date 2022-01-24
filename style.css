@@ -1,0 +1,19 @@
+div {
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    width: 80px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.interruptor {
+    height: 100px;
+    width: 100px;
+}
